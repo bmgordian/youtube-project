@@ -1,0 +1,21 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 10px;
+  column-gap: 20px;
+  row-gap: 30px;
+  height: 40px;
+}
+
+.left-section {
+  background-color: lightblue;
+  height: 40px;
+}
+.middle-section {
+background-color: lightpink;
+height: 40px;
+}
+.right-section{
+  background-color: lightblue;
+  height: 40px;
+}
